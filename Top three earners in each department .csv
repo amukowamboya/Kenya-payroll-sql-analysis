@@ -1,0 +1,25 @@
+department,full_name,salary_kes,rank_in_department
+Customer Support,Joy Kimani,155500,1
+Customer Support,Everlyne Njeri,146500,2
+Customer Support,Halima Maina,144000,3
+Data,Halima Kamau,426000,1
+Data,Cynthia Ochieng,379500,2
+Data,Jane Koech,356500,3
+Engineering,Beatrice Auma,585000,1
+Engineering,James Jepkosgei,512000,2
+Engineering,Ann Odhiambo,498000,3
+Finance,Diana Onyango,540000,1
+Finance,Daniel Omondi,438000,2
+Finance,Winnie Waweru,426500,3
+Human Resources,Joseph Kamau,327000,1
+Human Resources,Everlyne Nyambura,276500,2
+Human Resources,Beatrice Odhiambo,259500,3
+Marketing,Sarah Chebet,331000,1
+Marketing,Amina Odhiambo,300500,2
+Marketing,Moses Nyambura,296500,3
+Operations,Eric Kimani,358500,1
+Operations,Amina Chebet,356500,2
+Operations,Moses Mutua,350000,3
+Sales,Joy Otieno,363000,1
+Sales,Ian Odhiambo,362000,2
+Sales,Esther Waweru,353500,3
